@@ -54,3 +54,7 @@ print(voitures)
 #8.Afficher la liste au sens inverse
 
 reversed(voitures)
+
+#9.Vider la liste
+
+voitures.clear()
