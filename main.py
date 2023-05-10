@@ -19,3 +19,11 @@ voitures[5-1] = 'Veroster'
 
 for i in voitures:
     print (i)
+    
+    #3.Affichage de la liste contenant les elements contenant la lettre "a"
+
+Newlist=[]
+for n in voitures :
+    if "a" in n:
+        Newlist.append(n)
+        print(Newlist)
