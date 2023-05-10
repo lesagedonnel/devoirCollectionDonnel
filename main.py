@@ -27,3 +27,9 @@ for n in voitures :
     if "a" in n:
         Newlist.append(n)
         print(Newlist)
+        
+#4.Ajout et affichage d'un élément à la fin de notre liste
+
+voitures.append("Acura")
+for a in voitures :
+    print(a)
