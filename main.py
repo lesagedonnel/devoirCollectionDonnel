@@ -50,3 +50,7 @@ for i in voitures:
 
 voitures.sort()
 print(voitures)
+
+#8.Afficher la liste au sens inverse
+
+reversed(voitures)
