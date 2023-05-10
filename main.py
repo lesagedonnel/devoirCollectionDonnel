@@ -39,3 +39,9 @@ for a in voitures :
 voitures.insert(2,"Lincoln")
 for i in voitures:
      print(i)
+     
+     #6.Supprimer l'élément numéro 3 et afficher la liste restante
+
+del voitures[3-1]
+for i in voitures:
+    print(i)
