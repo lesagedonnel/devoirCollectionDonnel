@@ -58,3 +58,7 @@ reversed(voitures)
 #9.Vider la liste
 
 voitures.clear()
+
+#10.Supprimer la liste
+
+del(voitures)
