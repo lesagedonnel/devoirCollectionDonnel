@@ -45,3 +45,8 @@ for i in voitures:
 del voitures[3-1]
 for i in voitures:
     print(i)
+    
+    #7.Ordonner la liste
+
+voitures.sort()
+print(voitures)
