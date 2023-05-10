@@ -78,3 +78,7 @@ print(nombres.count(3))
 
 print(nombres[4])
 
+#3.Ordonner la tuple
+nombres = tuple(sorted(nombres))
+print(nombres)
+
