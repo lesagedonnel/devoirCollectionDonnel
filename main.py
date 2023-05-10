@@ -1,4 +1,4 @@
-# QUESTION I
+"""# QUESTION I
 
   #1.Creation d'une liste contenant 10 elements
 
@@ -61,4 +61,15 @@ voitures.clear()
 
 #10.Supprimer la liste
 
-del(voitures)
+del(voitures)"""
+
+# Question II
+
+#0.Creation d'une tuple de 10 éléments de type entier 
+
+nombres = (0,1,2,3,4,5,6,7,8,9)
+for i in nombres:
+    print(i)
+
+#1.afficher le nombre de fois 3 est apparut
+print(nombres.count(3))
