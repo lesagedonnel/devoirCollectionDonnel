@@ -73,3 +73,8 @@ for i in nombres:
 
 #1.afficher le nombre de fois 3 est apparut
 print(nombres.count(3))
+
+#2.Afficher le contenu de l'élément numéro 5
+
+print(nombres[4])
+
