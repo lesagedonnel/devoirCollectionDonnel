@@ -82,3 +82,14 @@ print(nombres[4])
 nombres = tuple(sorted(nombres))
 print(nombres)
 
+#4.Ajouter un élément à la fin de la tuple
+
+liste = list(nombres)
+liste.append(10)
+nombres = tuple(liste)
+print(nombres)
+
+
+
+
+
