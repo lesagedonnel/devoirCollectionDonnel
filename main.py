@@ -89,6 +89,11 @@ liste.append(10)
 nombres = tuple(liste)
 print(nombres)
 
+#5.Ajouter un élément à l’index numéro 3
+
+nombres = nombres[:3] +(11,)
+print(nombres)
+
 
 
 
