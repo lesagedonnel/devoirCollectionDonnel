@@ -33,3 +33,9 @@ for n in voitures :
 voitures.append("Acura")
 for a in voitures :
     print(a)
+    
+    #5.Ajout d'un élément à l’index numéro 2
+
+voitures.insert(2,"Lincoln")
+for i in voitures:
+     print(i)
