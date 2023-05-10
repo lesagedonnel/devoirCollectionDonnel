@@ -9,3 +9,13 @@
     print("-----Les elements se trouvant sur notre liste sont:-----")
     for i in voitures:
         print(i)
+        
+        
+    # 2.Changement du 5eme element dans notre liste
+
+voitures[5-1] = 'Veroster'
+
+#.Affichage du nouveau element dans notre liste
+
+for i in voitures:
+    print (i)
