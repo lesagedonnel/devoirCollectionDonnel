@@ -171,7 +171,10 @@ print(x)
 ident["Sexe"] = "masculin"
 print(ident)
 
-#8. 
+#8. Créer une copie du dictionnaire
+
+a = ident.copy()
+print(a)
 
  
  
