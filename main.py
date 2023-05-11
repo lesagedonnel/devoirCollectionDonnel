@@ -151,4 +151,8 @@ for i in ident:
 for i in ident.values():
     print (i)
     
-   
+   #4.Afficher les clés et les valeurs sous le format : Clé : Valeur
+
+for c,v in ident.items():
+    print(c ,":", v)
+ 
