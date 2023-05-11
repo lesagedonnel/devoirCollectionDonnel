@@ -1,4 +1,4 @@
-"""# QUESTION I
+# QUESTION I
 
   #1.Creation d'une liste contenant 10 elements
 
@@ -120,7 +120,7 @@ joueurs.remove("Messi")
 #4. Supprimer le set
 
 del joueurs
-print ("joueurs")"""
+print ("joueurs")
     
 #Question IV
 #0.Créer un dictionnaire de 10 éléments de type chaîne de caractères
