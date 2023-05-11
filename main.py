@@ -107,3 +107,20 @@ joueurs = {'Pogba','Cristiano','Pirlo','Messi','Vinicius','Rodrygo','Dembele','M
 for i in joueurs:
     print(i)
     
+#2. Ajouter un élément
+
+joueurs.add("Camavinga")
+for a in joueurs:
+     print(a)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
