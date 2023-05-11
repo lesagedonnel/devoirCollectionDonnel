@@ -161,7 +161,10 @@ for c,v in ident.items():
 ident.pop("Adresse")
 print(ident) 
  
- 
+ #6.Afficher l'élément de la clé numéro 5
+
+x=ident['Telephone']
+print(x)
  
  
  
