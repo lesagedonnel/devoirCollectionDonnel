@@ -141,6 +141,10 @@ ident = {'Nom':'GANZASABWA',
 for i in ident.items():
         print (i)
     
+#1.Afficher seulement les clés
+    
+for i in ident:
+    print(i)
     
     
     
