@@ -112,7 +112,15 @@ for i in joueurs:
 joueurs.add("Camavinga")
 for a in joueurs:
      print(a)
-    
+
+#3. Supprimer un élément
+
+joueurs.remove("Messi")    
+
+#4. Supprimer le set
+
+del joueurs
+print ("joueurs")
     
     
     
