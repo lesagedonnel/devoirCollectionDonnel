@@ -94,7 +94,9 @@ print(nombres)
 nombres = nombres[:3] +(11,)
 print(nombres)
 
+#6.Afficher la nouvelle tuple
 
+print(nombres)
 
 
 
