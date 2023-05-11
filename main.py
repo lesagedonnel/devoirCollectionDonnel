@@ -166,6 +166,13 @@ print(ident)
 x=ident['Telephone']
 print(x)
  
+# 7.Ajouter un nouvel élément
+
+ident["Sexe"] = "masculin"
+print(ident)
+
+#8. 
+
  
  
  
