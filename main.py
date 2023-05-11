@@ -96,7 +96,7 @@ print(nombres)
 
 #6.Afficher la nouvelle tuple
 
-print(nombres)"""
+print(nombres)
 
 #Question III
 
@@ -120,11 +120,26 @@ joueurs.remove("Messi")
 #4. Supprimer le set
 
 del joueurs
-print ("joueurs")
+print ("joueurs")"""
     
+#Question IV
+#0.Créer un dictionnaire de 10 éléments de type chaîne de caractères
+
+ident = {'Nom':'GANZASABWA',
+         'Prenom':'Donnel',
+         'Adresse':'Kinanira',
+         'Email':'dodobuderi@gmail.com',
+         'Telephone':'76442900',
+         'Taille':'1m',
+         'Profession ':'etudiant',
+         'Universite':'ULT',
+         'Faculte':'info',
+         'Departement':'GL'}
+
+   #1.afficher le dictionnaire 
     
-    
-    
+for i in ident.items():
+        print (i)
     
     
     
