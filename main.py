@@ -61,7 +61,7 @@ voitures.clear()
 
 #10.Supprimer la liste
 
-del(voitures)"""
+del(voitures)
 
 # Question II
 
@@ -96,7 +96,14 @@ print(nombres)
 
 #6.Afficher la nouvelle tuple
 
-print(nombres)
+print(nombres)"""
 
+#Question III
 
+#0. Créer un set de 10 éléments de type chaîne de caractères 
+joueurs = {'Pogba','Cristiano','Pirlo','Messi','Vinicius','Rodrygo','Dembele','Mendy','Valverde','Halaand'}
+#1. Afficher le set
 
+for i in joueurs:
+    print(i)
+    
