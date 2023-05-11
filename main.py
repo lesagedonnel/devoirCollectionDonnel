@@ -176,11 +176,7 @@ print(ident)
 a = ident.copy()
 print(a)
 
+ #9. Afficher les nouveaux éléments
  
- 
- 
- 
- 
- 
- 
+print(a) 
  
